@@ -1,0 +1,8 @@
+id=sys_optimizer_webui
+name=智能系统优化模块 (深度保养版)
+version=1.3-正式版
+versionCode=2026022701
+author=林挽
+description=FSTRIM+Android/data清理+F2FS自动回收
+minMagisk=24000
+updateJson=https://www.123684.com/s/2dUzTd-nypUv
