@@ -1,0 +1,22 @@
+# Ignore common files and directories
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Compiled code
+dist/
+build/
